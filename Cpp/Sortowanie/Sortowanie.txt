@@ -1,0 +1,100 @@
+﻿// Sortowanie.cpp : Ten plik zawiera funkcję „main”. W nim rozpoczyna się i kończy wykonywanie programu.
+#include <iostream>
+#include "Zrodlo1.h"
+#include <fstream>
+
+using namespace std;
+
+void ShowIntro();
+void ShowOutro();
+
+void Pokaz_wiadomosc_SC();
+void Pokaz_wiadomosc_QS();
+void Pokaz_wiadomosc_IS();
+
+int main()
+{
+	std::fstream plik;
+	plik.open("pomiary.txt", std::ofstream::out | std::ofstream::trunc);
+	plik.close();
+	cout.precision(15);
+
+	ShowIntro();
+
+	Pokaz_wiadomosc_SC();
+	Wykonaj_pomiary_sortowanie_scalanie1();
+	Wykonaj_pomiary_sortowanie_scalanie2();
+
+	Wykonaj_pomiary_sortowanie_scalanie3(25);
+	Wykonaj_pomiary_sortowanie_scalanie3(50);
+	Wykonaj_pomiary_sortowanie_scalanie3(75);
+	Wykonaj_pomiary_sortowanie_scalanie3(95);
+	Wykonaj_pomiary_sortowanie_scalanie3(99);
+	Wykonaj_pomiary_sortowanie_scalanie3((float)99.7);
+
+	Pokaz_wiadomosc_QS();
+	Wykonaj_pomiary_sortowanie_quicksort1();
+	Wykonaj_pomiary_sortowanie_quicksort2();
+
+	Wykonaj_pomiary_sortowanie_quicksort3(25);
+	Wykonaj_pomiary_sortowanie_quicksort3(50);
+	Wykonaj_pomiary_sortowanie_quicksort3(75);
+	Wykonaj_pomiary_sortowanie_quicksort3(95);
+	Wykonaj_pomiary_sortowanie_quicksort3(99);
+	Wykonaj_pomiary_sortowanie_quicksort3((float)99.7);
+
+	Pokaz_wiadomosc_IS();
+	Wykonaj_pomiary_sortowanie_introsort1();
+	Wykonaj_pomiary_sortowanie_introsort2();
+
+	Wykonaj_pomiary_sortowanie_introsort3(25);
+	Wykonaj_pomiary_sortowanie_introsort3(50);
+	Wykonaj_pomiary_sortowanie_introsort3(75);
+	Wykonaj_pomiary_sortowanie_introsort3(95);
+	Wykonaj_pomiary_sortowanie_introsort3(99);
+	Wykonaj_pomiary_sortowanie_introsort3((float)99.7);
+
+	ShowOutro();
+	cin.get();
+	return 0;
+}
+
+
+
+void Pokaz_wiadomosc_SC()
+{
+	cout << endl<<"***             SORTOWANIE SCALANIE                   ***" << endl;
+}
+void Pokaz_wiadomosc_QS()
+{
+	cout<<endl<<"***             SORTOWANIE QUICKSORT                  ***" << endl;
+
+}
+void Pokaz_wiadomosc_IS()
+{
+	cout << endl << "***             SORTOWANIE INTROSORT                  ***" << endl;
+}
+
+void ShowIntro()
+{
+	cout << "Wykorzystane algorytmy sortujace:" << endl;
+	cout << "1.Sortowanie przez scalanie" << endl;
+	cout << "2.Sortowanie szybkie" << endl;
+	cout << "3.Sortowanie introspektywne" << endl << endl;
+	cout << "Wykorzystane kontenery na dane:" << endl;
+	cout << " - " << ILOSC_TABLIC << " tablic skladajacych sie z " << ROZMIAR_1 << "  liczb calkowito liczbowych" << endl;
+	cout << " - " << ILOSC_TABLIC << " tablic skladajacych sie z " << ROZMIAR_2 << "  liczb calkowito liczbowych" << endl;
+	cout << " - " << ILOSC_TABLIC << " tablic skladajacych sie z " << ROZMIAR_3 << " liczb calkowito liczbowych" << endl;
+	cout << " - " << ILOSC_TABLIC << " tablic skladajacych sie z " << ROZMIAR_4 << " liczb calkowito liczbowych" << endl;
+	cout << " - " << ILOSC_TABLIC << " tablic skladajacych sie z " << ROZMIAR_5 << " liczb calkowito liczbowych" << endl;
+	cout << "Nacisnij Enter aby kontynuowac...";
+	cin.get();
+	system("CLS");
+}
+void ShowOutro()
+{
+	cout << endl << "W katalogu z projektem zostal utworzony plik: pomiary.txt" << endl;
+	cout << "W pliku znajduje sie kompletna diagnostyka pomiarowa badanych algorytmow. " << endl;
+	cout << "Nacisnij Enter, aby zakonczyc...";
+}
+

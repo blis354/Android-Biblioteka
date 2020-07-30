@@ -1,0 +1,336 @@
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 10000 wynosza: 
+2.0102e-05
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 50000 wynosza: 
+0.00011111
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 100000 wynosza: 
+0.00020212
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 500000 wynosza: 
+0.0011609
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 1000000 wynosza: 
+0.0023441
+Zakonczono Wariant 1.(LOSOWY) - Sortowanie rosnaco, przez scalanie
+
+
+
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 10000 wynosza: 
+1.0101e-05
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 50000 wynosza: 
+7.0607e-05
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 100000 wynosza: 
+0.00020304
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 500000 wynosza: 
+0.00071808
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 1000000 wynosza: 
+0.0014762
+Zakonczono Wariant 2.(NIEKORZYSTNY) - Sortowanie rosnaco, przez scalanie
+
+
+
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 10000 wynosza: 
+2.0203e-05
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 50000 wynosza: 
+0.00011121
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 100000 wynosza: 
+0.00021203
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 500000 wynosza: 
+0.0011434
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 1000000 wynosza: 
+0.002384
+Sortowania wykonano dla 25% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3 - Sortowanie rosnaco, przez scalanie
+
+
+
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 10000 wynosza: 
+2.0201e-05
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 50000 wynosza: 
+9.1111e-05
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 100000 wynosza: 
+0.00025242
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 500000 wynosza: 
+0.0011413
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 1000000 wynosza: 
+0.0030849
+Sortowania wykonano dla 50% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3 - Sortowanie rosnaco, przez scalanie
+
+
+
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 10000 wynosza: 
+2.0301e-05
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 50000 wynosza: 
+0.00011121
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 100000 wynosza: 
+0.00025303
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 500000 wynosza: 
+0.0012427
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 1000000 wynosza: 
+0.0023943
+Sortowania wykonano dla 75% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3 - Sortowanie rosnaco, przez scalanie
+
+
+
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 10000 wynosza: 
+2.0102e-05
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 50000 wynosza: 
+0.00010101
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 100000 wynosza: 
+0.00025202
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 500000 wynosza: 
+0.0011626
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 1000000 wynosza: 
+0.0024746
+Sortowania wykonano dla 95% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3 - Sortowanie rosnaco, przez scalanie
+
+
+
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 10000 wynosza: 
+2.0202e-05
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 50000 wynosza: 
+0.00010091
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 100000 wynosza: 
+0.00023202
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 500000 wynosza: 
+0.0012327
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 1000000 wynosza: 
+0.0024747
+Sortowania wykonano dla 99% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3 - Sortowanie rosnaco, przez scalanie
+
+
+
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 10000 wynosza: 
+1.0202e-05
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 50000 wynosza: 
+9.0909e-05
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 100000 wynosza: 
+0.00019252
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 500000 wynosza: 
+0.0012546
+Czasy sortowania: Sortowanie Scalanie 100 tablic o wielkosci: 1000000 wynosza: 
+0.0023852
+Sortowania wykonano dla 99.7% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3 - Sortowanie rosnaco, przez scalanie
+
+
+
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 10000 wynosza: 
+1.0102e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 50000 wynosza: 
+6.0507e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 100000 wynosza: 
+0.00024312
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00091748
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.0016365
+Zakonczono Wariant 1.(LOSOWY) - QuickSort
+
+
+
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 10000 wynosza: 
+1.0001e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 50000 wynosza: 
+3.0304e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 100000 wynosza: 
+7.0807e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00043565
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.00091909
+Zakonczono Wariant 2.(NIEKORZYSTNY) - QuickSort
+
+
+
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 10000 wynosza: 
+1.0101e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 50000 wynosza: 
+6.0606e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 100000 wynosza: 
+0.00012121
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00070727
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.0016153
+Sortowania wykonano dla 25% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3 - QuickSort
+
+
+
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 10000 wynosza: 
+2.0101e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 50000 wynosza: 
+6.0606e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 100000 wynosza: 
+0.00013131
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00070708
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.0016067
+Sortowania wykonano dla 50% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3 - QuickSort
+
+
+
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 10000 wynosza: 
+1.0101e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 50000 wynosza: 
+6.0605e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 100000 wynosza: 
+0.00014121
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00068817
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.0015261
+Sortowania wykonano dla 75% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3 - QuickSort
+
+
+
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 10000 wynosza: 
+1.0101e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 50000 wynosza: 
+6.0606e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 100000 wynosza: 
+0.00012121
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00077707
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.0015966
+Sortowania wykonano dla 95% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3 - QuickSort
+
+
+
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 10000 wynosza: 
+1.0101e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 50000 wynosza: 
+6.0606e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 100000 wynosza: 
+0.00013141
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00078758
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.0016263
+Sortowania wykonano dla 99% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3 - QuickSort
+
+
+
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 10000 wynosza: 
+1.0102e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 50000 wynosza: 
+6.0807e-05
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 100000 wynosza: 
+0.00015162
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 500000 wynosza: 
+0.0008893
+Czasy sortowania: QuickSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.0016167
+Sortowania wykonano dla 99.7% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3 - QuickSort
+
+
+
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 10000 wynosza: 
+1.0102e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 50000 wynosza: 
+6.0607e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 100000 wynosza: 
+0.00012121
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00078809
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.0018905
+Zakonczono Wariant 1.(LOSOWY) - Sortowanie IntroSort
+
+
+
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 10000 wynosza: 
+1.01e-07
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 50000 wynosza: 
+3.0403e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 100000 wynosza: 
+8.0807e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00041444
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.0011508
+Zakonczono Wariant 2.(NIEKORZYSTNY) - Sortowanie IntroSort
+
+
+
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 10000 wynosza: 
+1.0201e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 50000 wynosza: 
+6.0506e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 100000 wynosza: 
+0.00013151
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00074697
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.0017589
+Sortowania wykonano dla 25% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3. - Sortowanie IntroSort
+
+
+
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 10000 wynosza: 
+1.0101e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 50000 wynosza: 
+8.071e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 100000 wynosza: 
+0.00013271
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00083859
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.0017579
+Sortowania wykonano dla 50% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3. - Sortowanie IntroSort
+
+
+
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 10000 wynosza: 
+1.0101e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 50000 wynosza: 
+6.0606e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 100000 wynosza: 
+0.00014121
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00071787
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.0017782
+Sortowania wykonano dla 75% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3. - Sortowanie IntroSort
+
+
+
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 10000 wynosza: 
+1.0101e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 50000 wynosza: 
+5.0606e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 100000 wynosza: 
+0.00012121
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00071758
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.0018582
+Sortowania wykonano dla 95% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3. - Sortowanie IntroSort
+
+
+
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 10000 wynosza: 
+1.0101e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 50000 wynosza: 
+7.0807e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 100000 wynosza: 
+0.00012121
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00080737
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.0018488
+Sortowania wykonano dla 99% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3. - Sortowanie IntroSort
+
+
+
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 10000 wynosza: 
+1.01e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 50000 wynosza: 
+6.0607e-05
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 100000 wynosza: 
+0.00013131
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 500000 wynosza: 
+0.00072817
+Czasy sortowania: Sortowanie IntroSort 100 tablic o wielkosci: 1000000 wynosza: 
+0.001961
+Sortowania wykonano dla 99.7% tablicy posortowanej korzystnie (ROSNACO) Zakonczono Wariant 3. - Sortowanie IntroSort
+
+
+
